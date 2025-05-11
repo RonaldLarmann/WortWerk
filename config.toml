@@ -1,6 +1,6 @@
 # General Settings
 title = "Glacier - Clean & Minimal Portfolio Hugo Theme"
-baseURL = "" #YOUR SITE URL
+baseURL = "https://ronaldlarmann.github.io/WortWerk/" #YOUR SITE URL
 languageCode = "en-us"
 theme = "glacier"
 resourceDir = "resources"
