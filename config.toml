@@ -306,5 +306,8 @@ changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
 
+# Ergänzungen
+ignoreLogs = ['warning-partial-superfluous-prefix']
+
 [outputs]
 home = ["HTML", "RSS", "JSON"]
