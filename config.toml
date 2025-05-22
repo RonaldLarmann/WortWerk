@@ -1,14 +1,13 @@
 # General Settings
 title = "Glacier - Clean & Minimal Portfolio Hugo Theme"
 baseURL = "" #YOUR SITE URL
-languageCode = "en-us"
+languageCode = "de-de"
 theme = "glacier"
 resourceDir = "resources"
 [pagination]
-  pagerSize = 4
+  pagerSize = 7
 summaryLength = 50
-DefaultContentLanguage = "en" # Site language. Available translations in the theme's `/i18n` directory.
-
+DefaultContentLanguage = "de" # Site language. Available translations in the theme's `/i18n` directory.
 
 # Menu Settings
 [menu]
