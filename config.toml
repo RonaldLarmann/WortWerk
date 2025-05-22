@@ -9,17 +9,6 @@ resourceDir = "resources"
 summaryLength = 50
 DefaultContentLanguage = "en" # Site language. Available translations in the theme's `/i18n` directory.
 
-#-------------------------------
-# Pagination settings:
-
-# For Hugo versions 0.128.0 and above, use the following settings:
-# This will set the number of items per page for newer versions.
-[pagination]
-  pagerSize = 7
-
-# For Hugo versions below 0.128.0, uncomment the line below and comment out the [pagination] block above:
-#paginate = 7 # Sets the number of items per page for older versions.
-
 # Menu Settings
 [menu]
 [[menu.main]]
