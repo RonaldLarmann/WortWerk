@@ -9,6 +9,7 @@ resourceDir = "resources"
 summaryLength = 50
 DefaultContentLanguage = "en" # Site language. Available translations in the theme's `/i18n` directory.
 
+
 # Menu Settings
 [menu]
 [[menu.main]]

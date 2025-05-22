@@ -31,6 +31,7 @@ main_slider:
       type: "image"
       image: "/images/slider/slide-2.jpg"
 
+    ### Example: https://www.youtube.com/watch?v=FZ-QSu9hbRI You need a short link: FZ-QSu9hbRI Also for Vimeo video
     - title: "SUPPORT VIDEOS"
       type: "video"
       youtube: "FZ-QSu9hbRI"

@@ -9,8 +9,7 @@ sections:
 # Configuration for sections
 
 # Portfolio
-lazyLoad: "hide" # "show" or "hide" When you reach the bottom of the grid the plugin will try to load more media boxes (The bottom of the grid must hit the bottom of your browser window)
-stretch: "show" # Ultra wide portfolio, "show" or "hide"
+stretch: "show"
 filter: "d-none" # Align filter "text-start", "text-center", "text-end" or "d-none"
 columns: 3 # It is the number of columns you wish to display in the grid
 columnItem: "hide" # Column to a single media box, "show" or "hide"

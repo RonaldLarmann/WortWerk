@@ -17,7 +17,6 @@ parallaxVideo: "show" # Support YouTube and Vimeo video
 parallaxVideoLink: "https://www.youtube.com/watch?v=FZ-QSu9hbRI" # If "parallaxVideo" is "show"
 
 # Portfolio
-lazyLoad: "hide" # "show" or "hide" When you reach the bottom of the grid the plugin will try to load more media boxes (The bottom of the grid must hit the bottom of your browser window)
 stretch: "hide" # Ultra wide portfolio, "show" or "hide"
 filter: "text-center" # Align filter "text-start", "text-center", "text-end" or "d-none"
 columns: 3 # It is the number of columns you wish to display in the grid
