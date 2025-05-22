@@ -1,6 +1,6 @@
 # General Settings
 title = "Glacier - Clean & Minimal Portfolio Hugo Theme"
-baseURL = "https://ronaldlarmann.github.io/WortWerk/" #YOUR SITE URL
+baseURL = "" #YOUR SITE URL
 languageCode = "en-us"
 theme = "glacier"
 resourceDir = "resources"
@@ -305,9 +305,6 @@ url = "https://www.instagram.com/"
 changefreq = "monthly"
 priority = 0.5
 filename = "sitemap.xml"
-
-# Ergänzungen
-ignoreLogs = ['warning-partial-superfluous-prefix']
 
 [outputs]
 home = ["HTML", "RSS", "JSON"]

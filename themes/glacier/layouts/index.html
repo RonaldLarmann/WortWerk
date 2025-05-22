@@ -4,7 +4,7 @@
 
 {{ range $section := $.Params.sections }}
 
-{{ $partialPath := $section | printf "partials/%s.html" }}
+{{ $partialPath := $section | printf "%s.html" }}
 {{ if templates.Exists ( $partialPath ) }}
   {{ partial $partialPath $page }}
 {{ end }}
